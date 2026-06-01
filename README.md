@@ -8,7 +8,7 @@ ___    ____   ______                _
 
 # AI Comic
 
-> ai manga, comic ai tool, ai manga maker.
+> ai manga, comic ai tool, ai manga maker. for Windows
 
 **ai-comic** | **ai-manga** | **comic-generator** | **manga-ai** | **ai-illustration** | **generative-art**
 
@@ -18,9 +18,9 @@ ___    ____   ______                _
 
 - ai manga, comic ai tool, ai manga maker.
 - Full build: ai comic generator, comic ai tool, ai manga maker, ai comic strip, ai graphic novel.
-- Platform: Web
+- Platform: Windows 10/11 x64
 
-**Platform:** Web
+**Platform:** Windows 10/11 x64
 
 ---
 
